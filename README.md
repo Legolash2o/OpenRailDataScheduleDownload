@@ -1,4 +1,4 @@
-# Open Rail Data ScheduleDownload
+# Open Rail Data Schedule Download
 Sample code for download files from the open rail data platform.
 
 Code in this repository is sample code for downloading from NR Open Rail Data platform. It contains:
