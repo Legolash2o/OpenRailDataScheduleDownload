@@ -1,0 +1,9 @@
+C:\Users\liamc\Source\Repos\OpenRailDataScheduleDownload\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\liamc\Source\Repos\OpenRailDataScheduleDownload\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\liamc\Source\Repos\OpenRailDataScheduleDownload\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\liamc\Source\Repos\OpenRailDataScheduleDownload\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+C:\Users\liamc\Source\Repos\OpenRailDataScheduleDownload\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+C:\Users\liamc\Source\Repos\OpenRailDataScheduleDownload\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+C:\Users\liamc\Source\Repos\OpenRailDataScheduleDownload\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\liamc\Source\Repos\OpenRailDataScheduleDownload\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\liamc\Source\Repos\OpenRailDataScheduleDownload\Model\obj\Debug\netcoreapp3.1\Model.pdb
